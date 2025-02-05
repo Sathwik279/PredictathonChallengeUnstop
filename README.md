@@ -1,3 +1,6 @@
+# Note:
+The dataset is uploaded into kaggle and linked through kaggle u can connect the dataset on your own and test it
+
 # Deepfake Detection with Convolutional Neural Networks (CNN)
 
 This repository contains a deep learning model to detect deepfake images using a Convolutional Neural Network (CNN). The model is trained on a dataset of real and fake images and can predict whether an image is real or fake based on its features.

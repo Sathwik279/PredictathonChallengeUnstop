@@ -1,5 +1,7 @@
 # Note:
 The dataset is uploaded into kaggle and linked through kaggle u can connect the dataset on your own and test it
+Also change the location where the model is being saved 
+
 
 # Deepfake Detection with Convolutional Neural Networks (CNN)
 
